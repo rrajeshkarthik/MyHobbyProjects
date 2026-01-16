@@ -1,0 +1,5 @@
+{
+  "name": "SGD-EUR Smart Alerter",
+  "description": "A high-precision currency tracker for SGD to EUR exchange rates with automated appreciation alerts and hourly monitoring during Singapore business hours (8 AM - 5 PM).",
+  "requestFramePermissions": []
+}
